@@ -4,7 +4,6 @@
 
 Welcome to ICEO TECHNOLOGY JOINT STOCK! We are a leading technology company specializing in developing innovative mobile applications and solutions. Our goal is to provide high-quality, user-friendly applications that enhance the digital experience of our users.
 
-https://play-lh.googleusercontent.com/CyMM3C00bSBA20dL__cKjoaNSyUCBE1OieMDpNauk_VXvBlsTQeG7pmGvfMonRjH4w=w3840-h2160-rw
 ## About Us
 
 At ICEO TECHNOLOGY JOINT STOCK, we strive to create applications that cater to the diverse needs and interests of our users. Our dedicated team of experienced developers and designers work tirelessly to bring unique and cutting-edge ideas to life.
