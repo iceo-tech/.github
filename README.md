@@ -31,7 +31,3 @@ For any inquiries or feedback, you can reach out to us at:
 - Email: info@iceo.tech
 
 We look forward to serving you and providing you with exceptional mobile applications!
-
----
-
-*Note: This Markdown content can be copied and pasted into a README.md file directly.*
