@@ -1,6 +1,6 @@
 # ICEO TECHNOLOGY JOINT STOCK
 
-![ICEO TECHNOLOGY JOINT STOCK](https://lh3.googleusercontent.com/y1uT2r2fO_yv-GItmOpLGvgJNdjqyKwmMxdq5-2d_KqONhrQfi0B4U6tW_-eqM0iFA=s180-rw)
+![ICEO TECHNOLOGY JOINT STOCK]([https://lh3.googleusercontent.com/y1uT2r2fO_yv-GItmOpLGvgJNdjqyKwmMxdq5-2d_KqONhrQfi0B4U6tW_-eqM0iFA=s180-rw](https://play-lh.googleusercontent.com/CyMM3C00bSBA20dL__cKjoaNSyUCBE1OieMDpNauk_VXvBlsTQeG7pmGvfMonRjH4w=w3840-h2160-rw))
 
 Welcome to ICEO TECHNOLOGY JOINT STOCK! We are a leading technology company specializing in developing innovative mobile applications and solutions. Our goal is to provide high-quality, user-friendly applications that enhance the digital experience of our users.
 
@@ -27,8 +27,7 @@ Thank you for considering ICEO TECHNOLOGY JOINT STOCK for your digital needs. To
 
 For any inquiries or feedback, you can reach out to us at:
 
-- Email: contact@iceotech.com
-- Phone: +1234567890
+- Email: info@iceo.tech
 
 We look forward to serving you and providing you with exceptional mobile applications!
 
