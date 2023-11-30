@@ -1,6 +1,6 @@
 # ICEO TECHNOLOGY JOINT STOCK
 
-![https://play-lh.googleusercontent.com/CyMM3C00bSBA20dL__cKjoaNSyUCBE1OieMDpNauk_VXvBlsTQeG7pmGvfMonRjH4w=w3840-h2160-rw](https://play-lh.googleusercontent.com/CyMM3C00bSBA20dL__cKjoaNSyUCBE1OieMDpNauk_VXvBlsTQeG7pmGvfMonRjH4w=w3840-h2160-rw)
+![https://i.ibb.co/SBZhL7C/Taki-Group-3.jpg](https://i.ibb.co/SBZhL7C/Taki-Group-3.jpg)
 
 Welcome to ICEO TECHNOLOGY JOINT STOCK! We are a leading technology company specializing in developing innovative mobile applications and solutions. Our goal is to provide high-quality, user-friendly applications that enhance the digital experience of our users.
 
